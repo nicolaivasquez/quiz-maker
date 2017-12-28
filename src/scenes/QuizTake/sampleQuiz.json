@@ -1,0 +1,52 @@
+{
+  "id": 1,
+  "name": "Test Quiz",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple-choice",
+      "text": "What is 1 + 1?",
+      "choices": [
+        {
+          "id": 1,
+          "answer": 2
+        },
+        {
+          "id": 2,
+          "answer": 3
+        },
+        {
+          "id": 3,
+          "answer": 4
+        },
+        {
+          "id": 4,
+          "answer": 5
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "type": "multiple-choice",
+      "text": "What is 1 + 2?",
+      "choices": [
+        {
+          "id": 1,
+          "answer": 2
+        },
+        {
+          "id": 2,
+          "answer": 3
+        },
+        {
+          "id": 3,
+          "answer": 4
+        },
+        {
+          "id": 4,
+          "answer": 5
+        }
+      ]
+    }
+  ]
+}
